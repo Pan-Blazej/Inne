@@ -6,6 +6,8 @@ int main()
     vector <int>  wiktor;
 
     int x;
+    
+    COUT "\n Podaj int: ";
 
     CIN x;
 
